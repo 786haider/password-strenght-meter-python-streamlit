@@ -3,5 +3,5 @@
 This is a simple python streamlit app that checks the strength of your password. It uses regex to check for uppercase, lowercase, numbers and special characters in your password. The more complex your password is, the higher score it will get.
 If you want to generate a strong password, click on the button below.
 
-
-# https://password-strength-meter-by-haider-hussain.streamlit.app/
+Deploy url:
+#       https://password-strength-meter-by-haider-hussain.streamlit.app/
